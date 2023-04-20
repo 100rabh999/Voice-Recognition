@@ -44,7 +44,7 @@ const App = () => {
   return (
     <div className='container'>
       <div className='navbar'>
-        <h1>Type something to write..</h1>
+        <h1>Speak something to write..</h1>
         <h2>Some of the commands to use in the speech recognition..</h2>
         <ul>
           <li>Open *: To open the browser</li>
