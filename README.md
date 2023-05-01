@@ -68,3 +68,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### About 
+
+This is the voice recognition assistant which converts speech from microphone to text with various features built using react speech recognition - a react hook that listens from device mic and performs various functions.
+<h3>Docs</h3> https://www.npmjs.com/package/react-speech-recognition
