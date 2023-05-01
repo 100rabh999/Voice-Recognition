@@ -7,8 +7,8 @@ const App = () => {
   const commands = [
     {
       command: 'reset',
-      callback: ({ resetTranscript }) => {
-        resetTranscript();  }
+      callback: ({ resetTranscript }) => 
+        resetTranscript()
       
     },
     {
@@ -55,6 +55,7 @@ const App = () => {
           <li>Change text colour to * :To change text colour to * of the transcript</li>
         </ul>
       </div>
+      <br/>
       <div id='cont'>
         {transcript}
       </div>
