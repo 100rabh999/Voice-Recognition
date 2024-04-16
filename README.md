@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -73,3 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 This is the voice recognition assistant which converts speech from microphone to text with various features built using react speech recognition - a react hook that listens from device mic and performs various functions.
 <h3>Docs</h3> https://www.npmjs.com/package/react-speech-recognition
+=======
+# Voice-Recognition
+>>>>>>> 28a0770567c156925b3806c59911caf71ba216e9
